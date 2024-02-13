@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 60093648}
   - component: {fileID: 60093649}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: main_lev_build_6 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -217,7 +217,7 @@ GameObject:
   m_Component:
   - component: {fileID: 152902361}
   - component: {fileID: 152902362}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: main_lev_build_6 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -301,7 +301,7 @@ GameObject:
   m_Component:
   - component: {fileID: 255204504}
   - component: {fileID: 255204505}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: main_lev_build_7 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -388,6 +388,7 @@ GameObject:
   - component: {fileID: 310066055}
   - component: {fileID: 310066059}
   - component: {fileID: 310066058}
+  - component: {fileID: 310066060}
   m_Layer: 0
   m_Name: Sherif
   m_TagString: Untagged
@@ -478,7 +479,8 @@ Transform:
   m_LocalPosition: {x: -7.732, y: -1.964, z: 0}
   m_LocalScale: {x: 0.1297413, y: 0.1297413, z: 0.1297413}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1536243579}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -529,6 +531,38 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.19, y: 3.7}
   m_EdgeRadius: 0
+--- !u!114 &310066060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 310066054}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f965488701bbf5f4099eb3bece4d5cd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 1
+  jumpHeight: 5
+  FlyingHeight: 0
+  isFacingRight: 0
+  Spacebar: 0
+  L: 276
+  R: 275
+  F: 0
+  groundCheck: {fileID: 1536243579}
+  groundCheckRadius: 0.5
+  whatIsGround:
+    serializedVersion: 2
+    m_Bits: 64
+  airCheck: {fileID: 0}
+  airCheckRadius: 0
+  whatIsAir:
+    serializedVersion: 2
+    m_Bits: 0
+  grounded: 0
+  flying: 0
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -583,7 +617,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 1.18
+  orthographic size: 0.56
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -642,7 +676,7 @@ GameObject:
   m_Component:
   - component: {fileID: 999211864}
   - component: {fileID: 999211865}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: main_lev_build_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -716,6 +750,37 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1536243578
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1536243579}
+  m_Layer: 0
+  m_Name: GroundCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1536243579
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1536243578}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.030828351, y: -1.4490372, z: -76.17628}
+  m_LocalScale: {x: 7.7076464, y: 7.7076464, z: 7.7076464}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 310066057}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1620944563
 GameObject:
   m_ObjectHideFlags: 0
@@ -727,7 +792,7 @@ GameObject:
   - component: {fileID: 1620944565}
   - component: {fileID: 1620944564}
   - component: {fileID: 1620944566}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -845,7 +910,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1648290187}
   - component: {fileID: 1648290188}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: main_lev_build_7 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -929,7 +994,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1704797805}
   - component: {fileID: 1704797806}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: main_lev_build_7 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1097,7 +1162,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1808093852}
   - component: {fileID: 1808093851}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: main_lev_build_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1181,7 +1246,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1872458485}
   - component: {fileID: 1872458486}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: main_lev_build_6 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
