@@ -1,0 +1,4045 @@
+fileFormatVersion: 2
+guid: 7ead2fa9f35e3a1419e0e85bf8941457
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clean final monsoon_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1535
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4528c85ccb805294d85021c94f4f62ae
+      internalID: -1493182107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1535
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9cbfdc000734741b21edadac3b9012
+      internalID: -973842827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1535
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8c6fd9e4f304a42889c359bf75e415
+      internalID: -1607266133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1535
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c38eb4abeef4404e9bde987bbc35b12
+      internalID: 1146787976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1535
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc05285669eae94898232c3f6fb47eb
+      internalID: 546868495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_5
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1317
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb746e342ca9784d81d9ca0086f1912
+      internalID: 647379018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1452
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ffc97bc12442943a579a7d10f02785
+      internalID: 270729497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1452
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13e629c2457ab949a240eddbd7f2d41
+      internalID: -2073043800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1452
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84d5c08ba65ff44999ba5b0ca374c86
+      internalID: 251348358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1451
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e5dc5748ad8064682e9ad70fd43005
+      internalID: 1844548223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1451
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5d2030c182d6d44ab73af6f8fc60a4
+      internalID: 194609200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_11
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1452
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c06dd3ce63bb094d914a353e51c07ca
+      internalID: -436104116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1452
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece667c1b3377f2428ef4f331fd54b91
+      internalID: -1292495202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1483
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b50fd1ce91300b478b1442a471b0eaf
+      internalID: 895871148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1484
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23722cbc8237df45a49801cb7b87564
+      internalID: -2002875478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1483
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39724cf293e0b784ca232cf5d972e627
+      internalID: 7474319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_16
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1484
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce345ad0fbbed094ab8de6036ad13e40
+      internalID: 1036842911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_17
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1487
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24526bf351c05749883ba76197f03e4
+      internalID: -1375216839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1363
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c357457841a80c7408c57d3d050002e7
+      internalID: 852991496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1363
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d29e37ba9314242b368de12b69d412
+      internalID: 356181228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1394
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d3478def8b1254e9e16a77889f33aa
+      internalID: 1941945490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1414
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c5ca393bc9a9741afd7fbadca045e7
+      internalID: 1902923014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1416
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869feb85b44d07c47aeb64146535b90d
+      internalID: 458638166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1405
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9908dfa1d8cbe6a489a500347639ef8a
+      internalID: -143616361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_24
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1363
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9911fcbc53b636a4ca16d65a46ca3da9
+      internalID: -832797176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1364
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3d99bd496205b4d91b3012e8872cc8
+      internalID: 1430090780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_26
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1364
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a27497dfb7958418cf61f340afbc0c
+      internalID: 1390630345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_27
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1364
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c82663492c7d204a8dd7997830f4c2c
+      internalID: 386468642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_28
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1364
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cc872b21072af41b4564bb54d8cfc7
+      internalID: -1350046269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_29
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1364
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddec6596d9b1e3498f0017fa8b4e2a9
+      internalID: -1437421094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_30
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1364
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe65bdebd44a3a64f9a5ad09ab99ccdd
+      internalID: 1003589327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_31
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1387
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9184d0ba6facfa240bf150e010e2d0ed
+      internalID: -1589919494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1367
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c81814cc58d9147871edcc91ea5286
+      internalID: -2067470140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1374
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346d795494b03d246890a12516a5a6eb
+      internalID: -1464228751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1392
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c42662472a7bc48881286aa79e30ae
+      internalID: 1360358202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1363
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c96b4fd1549d741a70e730c9dab6c4
+      internalID: -1474048426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1373
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0937f63280cb3a544b3b6d5c35d9ce8b
+      internalID: 1725578255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_37
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1320
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6befa2412fcfaa847b9aa2102bbb467a
+      internalID: 2119475933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_38
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1320
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ba7b2c77b5da641a41fe2cbf9f7a23
+      internalID: -895560881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_39
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1320
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d17916a2d2c1de41a0df07a772800fc
+      internalID: -870532679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_40
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1363
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b24ac4471f27874380b9a12d83f3dc8
+      internalID: -1407014515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_41
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1365
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc65ea38ccb3864fab2d72170fc387a
+      internalID: 15804531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1231
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b62f1700644cd449b158f2a5f6861f
+      internalID: -432984540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_43
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1231
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993c56c87b7116b49984f5791fc344c1
+      internalID: -229877306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1231
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc38186d4e60ee2429a7b8a12027a94c
+      internalID: 1563665943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_45
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1231
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb19d3f1926cf8941b8e5d3a53ef68e6
+      internalID: 8851711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_46
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1231
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbd68e5ed5f11247bcc7ea2c2cd9d63
+      internalID: -126467824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_47
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1231
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2d42f5c65816c488bae35d9c6c8e4a
+      internalID: 1637328752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_48
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1231
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c452e546b40fdb4f93e8c27a72161bd
+      internalID: -1303689054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_49
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1231
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9f9a37e4e7a4745a641cc186b2e614
+      internalID: 237307794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1137
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f68f6b6729cbc74abfbaca09dc66829
+      internalID: -1134130004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1137
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aec9262e1e124b4486b240ab767b20f
+      internalID: -2011592972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_52
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1137
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e8ea5657a2eed48ba1cde15e17596e
+      internalID: -1941286727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_53
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1142
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9587b283be2f3f46810a20f50ba611e
+      internalID: 1984977230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_54
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1146
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc881893ab9e52141a4f009e6deca960
+      internalID: -1537391198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1137
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bbaae968e8bdc4986915376d59b531
+      internalID: -1936332800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_56
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1137
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3b72261a0b2534492a436bfec6774d
+      internalID: -510280613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_57
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1137
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9044c7dc8fd8ed43bbbe8aba997eed1
+      internalID: 304244666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_58
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1137
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9a455c85efb594ab0352c5ed847fe9
+      internalID: 657479846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_59
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1137
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98840db4dc2a0a94fb117674e7ea208e
+      internalID: -365257147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_60
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1137
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fdd07d08a93854baf0aa2df2ba0170
+      internalID: 1846745028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_61
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1137
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097fbe31ff52e5e4a9e17d66e302584f
+      internalID: -105890277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_62
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1137
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caf288c5b0edd8479a91d408d60140c
+      internalID: 2007513243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1043
+        width: 97
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6371a2055191f4940a3aed1d3d78aa89
+      internalID: 51945232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_64
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1043
+        width: 113
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60e2b1572c271f4aafbd7d64a11e170
+      internalID: -1498760130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_65
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1043
+        width: 111
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2fcc9f8d2768148a7a4c213d9397f8
+      internalID: -1448355264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_66
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1043
+        width: 121
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8a9fc7ae9992d4c93db665b887a8e9
+      internalID: -328417567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_67
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1043
+        width: 102
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d37907e00d68b4496a0111a37f1f57
+      internalID: 261200601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_68
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1095
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8939bbd4446e842b3251825ba46542
+      internalID: 2124611168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_69
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1043
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c65edf7307b57848884713b0426e328
+      internalID: 925242026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_70
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1043
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eaec60c999f864099750c5843eee5a
+      internalID: -798263499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_71
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1043
+        width: 30
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abc410fe73d11c4dada20a8726f93d3
+      internalID: 273304577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_72
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1060
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6449a758ca397504ebd8f06afde93b5c
+      internalID: 2038586091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_73
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1060
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cedae5dd83add4d9d5bf3b0d413b77
+      internalID: 1815707180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_74
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 966
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318372b57cc3a1641a675c21e837d6fd
+      internalID: 2006804243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_75
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 967
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66db17db57e5e443bac1429527392e5
+      internalID: -903727859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_76
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 769
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb69549dbb8c9499e94e9cbb497d61
+      internalID: -451957336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_77
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 770
+        width: 126
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769ad02eafd7f634cb1890aabb8a946a
+      internalID: -1268723834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_78
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 770
+        width: 82
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2544e851325a36f4eaa7f99da620eb41
+      internalID: -483465099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_79
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 770
+        width: 69
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd086c8e25a0554b8bfc5f22a41d2dc
+      internalID: -1332119157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_80
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 769
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d624790d42af2d42acc671d05cf8c06
+      internalID: 553534849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_81
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 771
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775737fceef6d7c47b1d99fcb4c41c45
+      internalID: 1710763349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_82
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 771
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bada49ea09fe61b4f9193fd39187aa51
+      internalID: 128443045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_83
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 771
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4104cb68d8339004781377afd2b9ab6e
+      internalID: -1921089689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_84
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 769
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ca2a02fd93d9c4db99fc3229ed36ba
+      internalID: -1000677557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_85
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 769
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137969b0714ef4242aa7a0be5ede8973
+      internalID: -1486170971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_86
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 769
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e97de1309d79044a8597ae6c94ce214
+      internalID: 436689303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_87
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 769
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2490a3a19d1ab4aa08347b89078262
+      internalID: -204431136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 673
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3711b10fc0eac94387670af9ab2d870
+      internalID: 2103382779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_89
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 667
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f937c0ad97844854e86f674636787b2b
+      internalID: -946149601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_90
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 667
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9937b48958b37e344af9d04af3f5b0ad
+      internalID: 2124848427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_91
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 666
+        width: 85
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e282efce32c4e549924d78a1e37e551
+      internalID: -1476570825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_94
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 661
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cd6e1afddf76c439e0f6dfb65e109b
+      internalID: 1412241678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_95
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 660
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe8467ad25c2d24abe2d281e3cb43de
+      internalID: -819725640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_96
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 660
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2288606a082144846a33f3be5defb3db
+      internalID: -1283559279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_97
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 658
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32e79518b6435f4db15a5e501d4f1c6
+      internalID: 1523014895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_99
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 674
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f962c5db61d8e0459a76910553f6135
+      internalID: -1836686192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_100
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 662
+        width: 87
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80cbd1883f1dbe46bc77b3ce9e5a1f8
+      internalID: -965123484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_104
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 569
+        width: 22
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc4c0d7a2744b340b9afafbf5d8ae6b
+      internalID: -357811098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_105
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 570
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516ee13f2fa873942bd1c7bbbc3d8b2e
+      internalID: -489360902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_106
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 570
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a84c86d0b76280408b363f4c252305c
+      internalID: 264842068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_107
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 570
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb21ee6bd2f7d6c4f9d32b65ea99fbf5
+      internalID: 108474731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 570
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed877cf7dd7d69e448d239976d9c9095
+      internalID: -213014455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_109
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 611
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99af3e852a0552b48be422b96e0fca55
+      internalID: -2122074431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_110
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 610
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbbc236797a68042abc1aa0f5c6f1e8
+      internalID: -1645200530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_111
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 610
+        width: 57
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0038ef1e7a78f458a38dc5881eeeda
+      internalID: 1772193251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_112
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 571
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49b1ad0ae67519429549d11cfcbb332
+      internalID: -1036895552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_113
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 573
+        width: 24
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec78ad75e5f98b41a70759f61950530
+      internalID: 199805178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_114
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 573
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16f5b26cca27094780a0ed72d1564ff
+      internalID: -1443449364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_115
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 573
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1922650fc68a6ca4799bee979e1b608f
+      internalID: 1408334347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_116
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 505
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2918a0c12e64acc4984de9341ff7b539
+      internalID: -1696804196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_117
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 509
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39511b64356b1148ae292d9f236d095
+      internalID: 2015077279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_118
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 501
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3fe96eb7100414fb4c873184377eed
+      internalID: -688804870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 502
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7a0f79980ad7b4f93c34d26884f04a
+      internalID: 672560967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_120
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 502
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad9380b760596d4d8ec75141aa432e0
+      internalID: -554843068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_121
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 502
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b499d53951a394385ea05a0b8a8a01
+      internalID: -1494003923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_122
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 502
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47d24a87a4b81044a083bc067a4ea04
+      internalID: 1538821815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_123
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 502
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4224d8d041727a42ab4e8994806fa11
+      internalID: 1715807346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_124
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 502
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6191487a48d54cb41bfa844009985aec
+      internalID: 943789335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_125
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 502
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadc09bbbae803b429fafa98209c1bec
+      internalID: 550634169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_126
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 493
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2725610f8bcc9784dbc32cdfb7f133d7
+      internalID: -697360912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_127
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 493
+        width: 92
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5125e767c738ab44a957b574aa78c5b4
+      internalID: -55296547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_128
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 500
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114dff2e68915914ca6c7e31a229bb05
+      internalID: 117556541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_129
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 394
+        width: 93
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc78c5b814ef9e498effb4a7663e9db
+      internalID: -543386901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_130
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 394
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ad0ddedbe0f2c46932a1799fd81727
+      internalID: -331130336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_131
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 394
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3db0308ad7cd4845830e23bdd19021c
+      internalID: -237155801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_132
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 394
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a85b44834bb63842b0e3bd00fb6f472
+      internalID: -1798840668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_133
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 394
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bb2da7d7bfdc643847e3b557642984
+      internalID: -1581736832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_134
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 394
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cd606573a700a4bb75065157868f74
+      internalID: -1018364106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_135
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 395
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edd7add1af03ce4c9db25d0f4df351a
+      internalID: -1793118458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_136
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 394
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e00f1d61feaf734e9adc39096f52259
+      internalID: 743902021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_137
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 393
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430d44a4275ed4d4c922da8b5a7dcdec
+      internalID: -340497409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_138
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 296
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37446e19e404f542a00d0857be039b9
+      internalID: 1647069294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_139
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 296
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e052f4502cb4ff478268300e39e7dc1
+      internalID: -693741635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_140
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 296
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eebd242ab5f6e4999313051e59dabc
+      internalID: 2066994631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_141
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 296
+        width: 59
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d7187b3ba944a40852c0de070d57d3
+      internalID: 1158795084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 296
+        width: 63
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d992e0bad363c8e4db6343f0933f2b52
+      internalID: 164654988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_143
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 296
+        width: 60
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbab950ff436fd349bd4d0507dbe69a5
+      internalID: -811422063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_144
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 296
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3b74bdd0e9df34496c0f223c61a9db
+      internalID: 205466295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_145
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 296
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac98d0e5801cea34c9aaa38ff620e080
+      internalID: 1027491497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_146
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 296
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d45315f1e8bd4c48951a0935edbfa04
+      internalID: -566552640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_147
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 296
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdcead87fb02664f8e7dcb46db7a6b3
+      internalID: -535711085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_148
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 296
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59713585b24d62f40a79f92926815100
+      internalID: -648726712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_149
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 296
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791d8e9c02f277944b061d4f2de7c579
+      internalID: 825604141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_150
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 296
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5049740981f7f45adec7211fcc38cf
+      internalID: -1609424040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_151
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 296
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f5d91732afb854aa198e26d16be926
+      internalID: 1387629417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_152
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 200
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390e2e7986084794c9a1306aa8c443af
+      internalID: -538673463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_153
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 200
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f16c75cb5868a4dad9c5c917642134
+      internalID: -1599569075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_154
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 200
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11e48a4ee182da47afa489151de14ba
+      internalID: 339833782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_155
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 200
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b611a999db729b443ad8a9fad1c8a95d
+      internalID: 1971212648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_156
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 200
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e172af2f44ca6488e919e9b89e1476
+      internalID: -434817177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_157
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 200
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a80d5743b506943bec723e97d115e1
+      internalID: 1367498808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_158
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 200
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95513aad7aed82142b717f69e0dee1ba
+      internalID: 746138854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_159
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 200
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbc8a9651a86144ba6ae0da0835139e
+      internalID: 220770495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_160
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 199
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269ccd1c5f292de4c9de37c89e6d3183
+      internalID: 1411424058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_161
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 199
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad775da8e26ddc04daaf0cb0c193657a
+      internalID: -1590448463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_162
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 199
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada6d7c455727314aa74d54fba16afd6
+      internalID: -1957450282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_163
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 197
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803027f5bcf903247b546427dc59b8a6
+      internalID: 1614812029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_164
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 197
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f548a6fc113af49a67749231e8c912
+      internalID: 571318516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_165
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 197
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e01cf547fd96a458a28d5109f149a9
+      internalID: -430917201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_166
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 197
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156f1429f33f40d4791f15e4abfe0f91
+      internalID: 368941555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_167
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 197
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2161a9b4abc1ed4d8f520719dbfec71
+      internalID: 1099271239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_168
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 97
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242bd351a049b7845a1c0ea878510a56
+      internalID: -1178263498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_169
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 110
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06009361e8f652f44a02f5cb95d76d27
+      internalID: 333217747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_170
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 110
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49397977130f8542b935b0e27524a3b
+      internalID: 1932187425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_171
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 100
+        width: 151
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894c33784275d024791934038965bd10
+      internalID: -443207641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_172
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 98
+        width: 146
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aac9d84a86b526468918460f7b1c285
+      internalID: 467344348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_173
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 104
+        width: 97
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ed7322fd5242b4488c224970aa1580
+      internalID: -459168151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_174
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 102
+        width: 85
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29ae1358b8098749acb849362eaf997
+      internalID: 825944892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_175
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 107
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d6c79d36ea6eb47aef48400c692bc0
+      internalID: -663279362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_176
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 94
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045fe679958e62a45a4760dd33f4279f
+      internalID: 787672531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_177
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 9
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166fb9c1bd94a98458ab5c9151cafd8d
+      internalID: -1964975382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_178
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 11
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb88cfe0754f48346b41cb8da0f54320
+      internalID: 1933948575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_179
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 13
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f1abf08eb9b5543837397111d217bc
+      internalID: -18024217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_180
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 13
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a304a830c035754d9420920b009d5ae
+      internalID: -291017240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_181
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 14
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370586367b4bef84d93743696ffef33f
+      internalID: 1115112879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_182
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 12
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b77d035d6e4dd40982398b61a77ca4
+      internalID: 67672163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean final monsoon_183
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 14
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539b07ccdc9515e4b88e860b18172886
+      internalID: -1341217894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      clean final monsoon_48: -1303689054
+      clean final monsoon_71: 273304577
+      clean final monsoon_138: 1647069294
+      clean final monsoon_52: -1941286727
+      clean final monsoon_30: 1003589327
+      clean final monsoon_56: -510280613
+      clean final monsoon_7: -2073043800
+      clean final monsoon_121: -1494003923
+      clean final monsoon_43: -229877306
+      clean final monsoon_107: 108474731
+      clean final monsoon_143: -811422063
+      clean final monsoon_174: 825944892
+      clean final monsoon_20: 1941945490
+      clean final monsoon_35: -1474048426
+      clean final monsoon_102: -410236885
+      clean final monsoon_136: 743902021
+      clean final monsoon_18: 852991496
+      clean final monsoon_130: -331130336
+      clean final monsoon_165: -430917201
+      clean final monsoon_78: -483465099
+      clean final monsoon_161: -1590448463
+      clean final monsoon_60: 1846745028
+      clean final monsoon_75: -903727859
+      clean final monsoon_47: 1637328752
+      clean final monsoon_16: 1036842911
+      clean final monsoon_84: -1000677557
+      clean final monsoon_148: -648726712
+      clean final monsoon_11: -436104116
+      clean final monsoon_128: 117556541
+      clean final monsoon_77: -1268723834
+      clean final monsoon_41: 15804531
+      clean final monsoon_73: 1815707180
+      clean final monsoon_142: 164654988
+      clean final monsoon_105: -489360902
+      clean final monsoon_169: 333217747
+      clean final monsoon_175: -663279362
+      clean final monsoon_120: -554843068
+      clean final monsoon_10: 194609200
+      clean final monsoon_46: -126467824
+      clean final monsoon_65: -1448355264
+      clean final monsoon_29: -1437421094
+      clean final monsoon_34: 1360358202
+      clean final monsoon_160: 1411424058
+      clean final monsoon_5: 647379018
+      clean final monsoon_134: -1018364106
+      clean final monsoon_82: 128443045
+      clean final monsoon_51: -2011592972
+      clean final monsoon_31: -1589919494
+      clean final monsoon_69: 925242026
+      clean final monsoon_70: -798263499
+      clean final monsoon_100: -965123484
+      clean final monsoon_154: 339833782
+      clean final monsoon_58: 657479846
+      clean final monsoon_135: -1793118458
+      clean final monsoon_163: 1614812029
+      clean final monsoon_62: 2007513243
+      clean final monsoon_23: -143616361
+      clean final monsoon_155: 1971212648
+      clean final monsoon_74: 2006804243
+      clean final monsoon_94: 1412241678
+      clean final monsoon_98: -1832172606
+      clean final monsoon_116: -1696804196
+      clean final monsoon_123: 1715807346
+      clean final monsoon_12: -1292495202
+      clean final monsoon_19: 356181228
+      clean final monsoon_181: 1115112879
+      clean final monsoon_112: -1036895552
+      clean final monsoon_137: -340497409
+      clean final monsoon_152: -538673463
+      clean final monsoon_21: 1902923014
+      clean final monsoon_164: 571318516
+      clean final monsoon_96: -1283559279
+      clean final monsoon_3: 1146787976
+      clean final monsoon_64: -1498760130
+      clean final monsoon_144: 205466295
+      clean final monsoon_89: -946149601
+      clean final monsoon_133: -1581736832
+      clean final monsoon_145: 1027491497
+      clean final monsoon_118: -688804870
+      clean final monsoon_147: -535711085
+      clean final monsoon_6: 270729497
+      clean final monsoon_24: -832797176
+      clean final monsoon_97: 1523014895
+      clean final monsoon_132: -1798840668
+      clean final monsoon_129: -543386901
+      clean final monsoon_183: -1341217894
+      clean final monsoon_26: 1390630345
+      clean final monsoon_180: -291017240
+      clean final monsoon_108: -213014455
+      clean final monsoon_95: -819725640
+      clean final monsoon_159: 220770495
+      clean final monsoon_88: 2103382779
+      clean final monsoon_99: -1836686192
+      clean final monsoon_167: 1099271239
+      clean final monsoon_28: -1350046269
+      clean final monsoon_101: -624293246
+      clean final monsoon_149: 825604141
+      clean final monsoon_66: -328417567
+      clean final monsoon_8: 251348358
+      clean final monsoon_173: -459168151
+      clean final monsoon_122: 1538821815
+      clean final monsoon_119: 672560967
+      clean final monsoon_42: -432984540
+      clean final monsoon_49: 237307794
+      clean final monsoon_17: -1375216839
+      clean final monsoon_110: -1645200530
+      clean final monsoon_50: -1134130004
+      clean final monsoon_38: -895560881
+      clean final monsoon_177: -1964975382
+      clean final monsoon_139: -693741635
+      clean final monsoon_37: 2119475933
+      clean final monsoon_150: -1609424040
+      clean final monsoon_162: -1957450282
+      clean final monsoon_125: 550634169
+      clean final monsoon_63: 51945232
+      clean final monsoon_92: 112032016
+      clean final monsoon_131: -237155801
+      clean final monsoon_55: -1936332800
+      clean final monsoon_103: -764735318
+      clean final monsoon_79: -1332119157
+      clean final monsoon_13: 895871148
+      clean final monsoon_141: 1158795084
+      clean final monsoon_91: -1476570825
+      clean final monsoon_146: -566552640
+      clean final monsoon_114: -1443449364
+      clean final monsoon_176: 787672531
+      clean final monsoon_0: -1493182107
+      clean final monsoon_127: -55296547
+      clean final monsoon_45: 8851711
+      clean final monsoon_156: -434817177
+      clean final monsoon_87: -204431136
+      clean final monsoon_104: -357811098
+      clean final monsoon_22: 458638166
+      clean final monsoon_83: -1921089689
+      clean final monsoon_117: 2015077279
+      clean final monsoon_111: 1772193251
+      clean final monsoon_81: 1710763349
+      clean final monsoon_140: 2066994631
+      clean final monsoon_158: 746138854
+      clean final monsoon_93: 919004340
+      clean final monsoon_168: -1178263498
+      clean final monsoon_172: 467344348
+      clean final monsoon_85: -1486170971
+      clean final monsoon_86: 436689303
+      clean final monsoon_170: 1932187425
+      clean final monsoon_32: -2067470140
+      clean final monsoon_2: -1607266133
+      clean final monsoon_4: 546868495
+      clean final monsoon_59: -365257147
+      clean final monsoon_15: 7474319
+      clean final monsoon_166: 368941555
+      clean final monsoon_61: -105890277
+      clean final monsoon_76: -451957336
+      clean final monsoon_171: -443207641
+      clean final monsoon_9: 1844548223
+      clean final monsoon_27: 386468642
+      clean final monsoon_54: -1537391198
+      clean final monsoon_126: -697360912
+      clean final monsoon_57: 304244666
+      clean final monsoon_113: 199805178
+      clean final monsoon_80: 553534849
+      clean final monsoon_178: 1933948575
+      clean final monsoon_179: -18024217
+      clean final monsoon_25: 1430090780
+      clean final monsoon_40: -1407014515
+      clean final monsoon_182: 67672163
+      clean final monsoon_36: 1725578255
+      clean final monsoon_124: 943789335
+      clean final monsoon_151: 1387629417
+      clean final monsoon_157: 1367498808
+      clean final monsoon_1: -973842827
+      clean final monsoon_53: 1984977230
+      clean final monsoon_39: -870532679
+      clean final monsoon_72: 2038586091
+      clean final monsoon_153: -1599569075
+      clean final monsoon_14: -2002875478
+      clean final monsoon_109: -2122074431
+      clean final monsoon_106: 264842068
+      clean final monsoon_67: 261200601
+      clean final monsoon_44: 1563665943
+      clean final monsoon_90: 2124848427
+      clean final monsoon_33: -1464228751
+      clean final monsoon_68: 2124611168
+      clean final monsoon_115: 1408334347
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
