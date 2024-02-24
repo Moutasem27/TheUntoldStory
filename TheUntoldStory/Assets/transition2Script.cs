@@ -16,7 +16,7 @@ public class transition2Script : StateMachineBehaviour
         if (PlayerController.instance.isAttacking)
         {
             PlayerController.instance.anim.Play("Attack3");
-         ///////   PlayerController.instance.canMove = false;
+            PlayerController.instance.canMove = false;
         }
     }
 

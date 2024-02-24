@@ -17,12 +17,17 @@ public class IdleScript : StateMachineBehaviour
         {
             PlayerController.instance.anim.Play("Attack1");
         }
+        else if(PlayerController.instance.isShooting)
+        { 
+            PlayerController.instance.anim.Play("RangedAttack");
+        }
     }
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        PlayerController.instance.isAttacking = false; 
+        PlayerController.instance.isAttacking = false;
+        PlayerController.instance.isShooting = false;
     }
 
     // OnStateMove is called right after Animator.OnAnimatorMove()

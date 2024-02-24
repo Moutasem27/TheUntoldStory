@@ -11,15 +11,21 @@ public class PlayerController : MonoBehaviour
     public KeyCode Spacebar;
     public KeyCode L;
     public KeyCode R;
-    public KeyCode F;
-    public KeyCode A;
+    public KeyCode S;  //Shooting
+    public GameObject projectile;
+    public GameObject megaProjectile;
+    public GameObject windBeam;
+    public Transform firePoint;
+    public float windChargeTime = 0;
+    public KeyCode A;  //Attacking
     public Transform groundCheck;
     public float groundCheckRadius;
     public LayerMask whatIsGround;
     public bool grounded;
 
     public bool isAttacking = false;
-   //// public bool canMove = true;
+    public bool isShooting = false;
+    public bool canMove = true;
     public static PlayerController instance;
 
     public Transform attackPoint;
@@ -28,6 +34,7 @@ public class PlayerController : MonoBehaviour
     void flip()
     {
         transform.localScale = new Vector3(-(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+        //transform.Rotate(0f, 180f, 0f);
     }
 
     void Jump()
@@ -57,24 +64,22 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         Attack();
-        if (Input.GetKeyDown(Spacebar) && grounded )//&& canMove)
+        Shoot();
+
+        if (Input.GetKeyDown(Spacebar) && grounded && canMove)
         {
-            
+
             Jump();
         }
-        if (Input.GetKeyDown(F))
+
+
+
+
+        if (Input.GetKey(L) && canMove)
         {
 
-           
-        }
-
-
-
-        if (Input.GetKey(L) )//&& canMove)
-        {
-            
             GetComponent<Rigidbody2D>().velocity = new Vector2(-moveSpeed, GetComponent<Rigidbody2D>().velocity.y);
-            
+
             if (isFacingRight)
             {
                 flip();
@@ -82,9 +87,9 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        if (Input.GetKey(R) )//&& canMove)
+        if (Input.GetKey(R))//&& canMove)
         {
-            
+
             GetComponent<Rigidbody2D>().velocity = new Vector2(moveSpeed, GetComponent<Rigidbody2D>().velocity.y);
 
             if (!isFacingRight)
@@ -94,7 +99,7 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        
+
         //if (Input.GetKeyDown(A))
         //{
         //    anim.SetTrigger("Attack");
@@ -123,11 +128,46 @@ public class PlayerController : MonoBehaviour
 
     void Attack()
     {
-        if (Input.GetKeyDown(A)&& !isAttacking)
+        if (Input.GetKeyDown(A) && !isAttacking)
         {
             isAttacking = true;
         }
+
+        if(Input.GetKeyDown(S) && isAttacking)
+        {
+            Instantiate(windBeam, firePoint.position, firePoint.rotation);
+            Destroy(windBeam, 1f);
+
+        }
     }
 
-    //}
+    public void Shoot()
+    {
+        if (Input.GetKey(S) && !isShooting && !isAttacking)
+        {
+            //windChargeTime += Time.deltaTime;
+            windChargeTime += 1;
+            isShooting = true;
+            Debug.Log(windChargeTime);
+        }
+
+        else if (Input.GetKeyUp(S) && windChargeTime >= 3 && !isAttacking)
+        {
+            Instantiate(megaProjectile, firePoint.position, firePoint.rotation);
+            windChargeTime = 0;
+        }
+
+        else if (Input.GetKeyUp(S) && windChargeTime < 3 && !isAttacking)
+        {
+            Instantiate(projectile, firePoint.position, firePoint.rotation);
+            windChargeTime = 0;
+        }
+
+    }
+
 }
+
+
+
+    //}
+
